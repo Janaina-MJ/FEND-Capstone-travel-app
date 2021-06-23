@@ -1,5 +1,3 @@
-# Note: Under development
-
 # Front End Web Developer Nanodegree - Capstone: Travel Planner Web App
 
 This is a project to [Udacity](https://www.udacity.com/us)'s Front End Web Developer nanodegree.
